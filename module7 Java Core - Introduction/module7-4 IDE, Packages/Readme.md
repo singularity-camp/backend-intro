@@ -101,3 +101,7 @@ Hello World!</code></pre>
 	<li><a href="https://beginnersbook.com/2013/03/packages-in-java/" rel="nofollow noopener noreferrer">Packages in java</a>;</li>
 	<li><a href="https://docs.oracle.com/javase/tutorial/java/package/packages.html" rel="nofollow noopener noreferrer">Packages</a>;</li>
 </ul>
+
+
+# Homework
+1. Завершить тест по итогам урока в LMS
